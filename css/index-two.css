@@ -1,0 +1,33 @@
+.bg {
+    background-image: url('../img/cyber-3400789.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cap {
+    text-transform: uppercase;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.capOther {
+    text-transform: uppercase;
+    font-weight: light;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.bgTwo{
+    background: #e0fff9;
+}
+.padleft{
+    padding-left: 150px;
+}
+#my-image.img-thumbnail {
+/* background: radial-gradient(red,green,blue); */
+box-shadow: 0px 10px 6px 0px;
+}
